@@ -57,7 +57,7 @@ dbb7851c98289e16a2606b98c0744c23
 6f8fecfc9c7c162b1d4355b839f034e9
 
 ## 使用说明
-...
+![](https://github.com/Zer0ne-Sec/ngxpt/blob/master/demo.gif)
 
 ## 测试地址
 http://ngxpt.co:9091/
