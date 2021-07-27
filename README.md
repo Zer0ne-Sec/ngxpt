@@ -4,7 +4,7 @@
 
 <center><div style="float"><img src="https://img.shields.io/github/stars/Zer0ne-Sec/ngxpt?style=social"><img src="https://img.shields.io/github/forks/Zer0ne-Sec/ngxpt?style=social"><img src="https://img.shields.io/github/sponsors/Zer0ne-Sec"></div></center>
 
-## ngxpt
+## 描述
 
 当前市面上的XSS平台基本都是同一套源码搭建出来的，较为久远，且使用一次功能(截图、获取cookie等)就需要插入一次链接。假设下现在某系统后台留言处有一个XSS点，但是每插一次都会接到客服打来的电话，这体验太糟糕了。使用ngxpt可以只需要插入一次链接，之后想获取什么信息，直接选中相应的模块，点击发送就可以了，享受远控般的体验。
 
