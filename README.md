@@ -27,6 +27,9 @@
 
 
 ## 更新日志
+### v0.0.1-alpha(2021/07/2x)
+- 增加用户中心
+- 普通用户每自然月可生成一个邀请码
 
 ### v0.0.1-beta(2021/07/22)
 
@@ -80,4 +83,4 @@ dbb7851c98289e16a2606b98c0744c23
 ![](https://github.com/Zer0ne-Sec/ngxpt/blob/master/demo.gif)
 
 ## 测试地址
-http://ngxpt.co:9091/
+http://ngxpt.co/
