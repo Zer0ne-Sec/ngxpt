@@ -44,7 +44,7 @@
 
 ## 使用说明
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="ngxpt-demo" type="video/mp4">
+      <source id="mp4" src="ngxpt-demo.mpg" type="video/mp4">
 </videos>
 
 ## 测试地址
