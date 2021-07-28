@@ -44,8 +44,19 @@
 
 ## 使用说明
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="ngxpt-demo.mpg" type="video/mp4">
+      <source id="mp4" src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" type="video/mp4">
 </videos>
+
+<iframe 
+src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 ## 测试地址
 http://ngxpt.co/
