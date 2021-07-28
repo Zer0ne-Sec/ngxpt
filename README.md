@@ -47,6 +47,10 @@
       <source id="mp4" src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" type="video/mp4">
 </videos>
 
+<video width="320" height="240" controls>
+    <source src="ngxpt-demo.mp4" type="video/mp4">
+</video>
+
 <iframe 
 src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" 
 scrolling="no" 
