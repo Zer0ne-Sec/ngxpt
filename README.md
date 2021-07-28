@@ -43,24 +43,7 @@
 若有测试需求，请在issue留言
 
 ## 使用说明
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" type="video/mp4">
-</videos>
-
-<video width="320" height="240" controls>
-    <source src="ngxpt-demo.mp4" type="video/mp4">
-</video>
-
-<iframe 
-src="https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[![Watch the video](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4)](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4)
 
 ## 测试地址
-http://ngxpt.co/
+https://ngxpt.co/
