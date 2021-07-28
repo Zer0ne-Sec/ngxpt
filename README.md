@@ -43,7 +43,7 @@
 若有测试需求，请在issue留言
 
 ## 使用说明
-[![Watch the video](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4)](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.mp4)
+![image](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.gif)
 
 ## 测试地址
 https://ngxpt.co/
