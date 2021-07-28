@@ -40,49 +40,12 @@
 
 
 ## 内测激活码
-
-f5c552f4267c3ab099e221eca48bc170
-
-4a0bfba9b74a41fb40df52d36d73e404
-
-549cf6ae9adb4c90a0ceff6b49ab9951
-
-38ad61c1645c12516a6a5d564a325679
-
-6cfee18a6ef1776161da5d31e2d8f5da
-
-46cd821a6a9ebf1ff26896727e6e3a43
-
-b3acc1a22b653448573d0179e5a33d5e
-
-e67364194972945b56f2399ed1f28f31
-
-9649f8cb65918202a5719a89f9126826
-
-348aebd06dbf1b1da8ab744390ba4578
-
-f5bd482afa1696d6dc46fd9dd36f5c46
-
-a8686cda62770d573a02fc5a189dee5a
-
-9c56836b4165b737f8436c1994ff93f3
-
-e42b87141cd62b619e1f4f6adc9cc156
-
-dbd2857e81d8bcb40e8c6540b9e62a45
-
-d64627caeaa1a37c9df84665d02e420f
-
-df29018b019a9ba4019816d7329b9a60
-
-056eab694fb1667628021e6a173620db
-
-dbb7851c98289e16a2606b98c0744c23
-
-6f8fecfc9c7c162b1d4355b839f034e9
+若有测试需求，请在issue留言
 
 ## 使用说明
-![](https://github.com/Zer0ne-Sec/ngxpt/blob/master/demo.gif)
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="ngxpt-demo" type="video/mp4">
+</videos>
 
 ## 测试地址
 http://ngxpt.co/
