@@ -8,7 +8,7 @@
 
 新一代XSS平台，即新一代跨站脚本攻击平台（Next Generation Cross-Site Scripting Attack Platform），简称NG XPT，是一款抛弃传统XSS攻击概念的高效实时的跨站脚本攻击平台。
 
-本项目采用golang+echo+vue进行开发。
+本项目采用golang+echo+vue+grpc进行开发。
 
 ## 特点
 
