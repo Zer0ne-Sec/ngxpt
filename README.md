@@ -63,7 +63,8 @@
 
 
 ## 内测激活码
-若有测试需求，请在issue留言
+~~若有测试需求，请在issue留言~~
+公众号Zer0ne安全研究留言
 
 ## 使用说明
 ![image](https://github.com/Zer0ne-Sec/ngxpt/blob/master/ngxpt-demo.gif)
